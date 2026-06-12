@@ -168,7 +168,7 @@ function App() {
                     />
                   </a>
                   <a 
-                    href="https://id-preview--44112a06-df71-46af-8e00-e0c27fa0d0bc.lovable.app/"
+                    href="https://heart-risk.lovable.app"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="block"
